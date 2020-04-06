@@ -35,7 +35,7 @@
   "deprecated": false,
   "description": "Bare bones Promises/A+ implementation",
   "devDependencies": {
-    "acorn": "^1.0.1",
+    "acorn": "^7.1.1",
     "better-assert": "*",
     "istanbul": "^0.3.13",
     "mocha": "*",
